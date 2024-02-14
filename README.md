@@ -1,2 +1,3 @@
-# ITP-IMA-Code-of-Conduct-
-This is just to have a redirect to the new repo and URL.
+# ITP-IMA-Code-of-Conduct
+
+Redirecting to: https://community.itp.io/
